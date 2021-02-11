@@ -41,6 +41,5 @@ public class task {
 //        i*=2;
 //       }
 //    System.out.println(b);
-//    }
-//}
-
+ }
+ }
